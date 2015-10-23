@@ -35,4 +35,11 @@ class Program
             Console.ReadLine();
         }
 ```
+##Input
+> -hello -walk 12 145 -move up right right down left -push up 15 true down false 0
 ##Output
+> Hello
+  Moved to x:12 y:145
+  My movement up right right down left
+  Push up 15 => True
+  push down 0 => False
