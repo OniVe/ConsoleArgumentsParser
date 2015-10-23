@@ -42,7 +42,12 @@ class Program
 
 ##Output
 > Hello
+
 > Moved to x:12 y:145
+
 > My movement up right right down left
+
 > Push up 15 => True
+
 > push down 0 => False
+
